@@ -1,0 +1,5 @@
+A high quality key is a key which is tough or close to impossible to break with limited time. The key should be truly random to become harder to break.
+There are many ways to determine if a key is a of good quality. 
+To test if a key has good quality it is essential that the pattern has no regularities and that the ratio between 0 and 1 is close to 1:1.
+You would like to check multiple keys to see if there are any recognisable faulties such as recurrant blocks and bit patterns.
+I would assume that pattern analasys in dimensions > 2 could be present for more advanced tests.
